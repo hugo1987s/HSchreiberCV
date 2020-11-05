@@ -1,0 +1,20 @@
+body{
+    background-color: orange !important;
+}
+
+.li-skills{
+    background-color: palegoldenrod;
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    box-shadow: 3px 3px red;
+    list-style: none;
+    
+}
+
+li:hover{
+    background-color: black;
+    color: white;
+}
