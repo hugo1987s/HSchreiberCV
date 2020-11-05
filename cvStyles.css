@@ -9,12 +9,70 @@ body{
     margin-bottom: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
-    box-shadow: 3px 3px red;
+    box-shadow: 3px 3px orange;
     list-style: none;
     
 }
 
 li:hover{
-    background-color: black;
+    background-color: #343a40;
     color: white;
+}
+
+.generalDiv{
+    
+    padding: 30px;
+    border-radius: 5px;
+
+}
+
+h1{
+    color: orange;
+    font-weight: bolder;
+    
+}
+
+h2{
+    font-weight: bold;
+    color: orange;
+    
+}
+
+h4{
+    color: orange;
+}
+
+p {
+    color: white !important;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.fecha {
+    color: white;
+    margin-left: 15px;
+}
+
+hr {
+    background-color: white;
+}
+
+.empresa {
+    color: white;
+    font-size: medium;
+}
+
+.detalleEncabezado {
+    margin-left: 0px;
+}
+
+.language
+{
+    text-align: right;
+    padding-right: 105px;
 }
