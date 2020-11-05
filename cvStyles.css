@@ -83,14 +83,16 @@ hr {
 }
 
 
-.h2Hover:after {
+.icono:after {
+    margin-top: 20px;
     content: '';
     border-bottom: 5px solid transparent;
-    border-left: 7px solid #e15646;
+    border-left: 7px solid orange;
     border-top: 5px solid transparent;
     height: 0;
     width: 0;
+    transform: rotate(90deg);
     display: inline-block;
-    position: relative;
-    margin-left: 9px;
-    }
+    margin-left: 15px;
+}
+
