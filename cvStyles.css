@@ -15,7 +15,8 @@ body{
 }
 
 li:hover{
-    background-color: #343a40;
+    /*background-color: #343a40;*/
+    background-color: blue;
     color: white;
 }
 
@@ -96,3 +97,6 @@ hr {
     margin-left: 15px;
 }
 
+.img_languages {
+    width: 30px;
+}
