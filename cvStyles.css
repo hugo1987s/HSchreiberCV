@@ -15,8 +15,7 @@ body{
 }
 
 li:hover{
-    /*background-color: #343a40;*/
-    background-color: blue;
+    background-color: #343a40;
     color: white;
 }
 
